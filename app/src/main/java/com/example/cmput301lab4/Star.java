@@ -1,4 +1,4 @@
-package com.example.cmput301lab4
+package com.example.comput301lab
 
-public class Star{
+public class Star extends Shape {
 }
