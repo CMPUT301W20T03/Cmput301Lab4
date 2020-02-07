@@ -1,4 +1,4 @@
-package com.example.cmput301lab4
+package com.example.cmput301lab4;
 
 public class Star{
 }
