@@ -2,7 +2,7 @@ package com.example.cmput301lab4;
 //
 //<<<<<<< HEAD
 ////public class Shape {
-////    String color = "purple";   //solve the conflict by commenting -Yueling
+////    String color = "purple";   //solve the conflict by commenting - Yueling Chen
 //=======
 public class Shape {//edit the Shape Class for add the color
   public int x;//add x and y
